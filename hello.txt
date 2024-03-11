@@ -1,0 +1,5 @@
+Local repo
+새롭게 woking Dir. 을 만든다.
+hello.txt 파일을 생성 후 commit 한다
+파일 내용을 수정 후 commit 한다.
+원격 repo 에 push한다
