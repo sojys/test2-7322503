@@ -5,3 +5,6 @@ hello.txt 파일을 생성 후 commit 한다
 원격 repo 에 push한다
 
  Remmote Repo
+Commit log 를 확인한다.
+파일 내용을 Github에서 수정한다.
+Local Repo에서 Pull을 한다
